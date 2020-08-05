@@ -1,26 +1,9 @@
-### Hi there 👋
-
-<!--
-**johelder/johelder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # Johelder Humberto
 
 Hi there
 
-Currently I study Computer Science in college,
-for now learning HTML/CSS and Javascript,
-I can help you with CSS Grid Layout and Flexbox :)
-i am in love Berserk mangá and Darksouls serie
-you can find me here: [![Gmail Badge](https://img.shields.io/badge/-johelder.arj@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:johelder.arj@gmail.com)](mailto:johelder.arj.com)
+<br/> Currently I study Computer Science in college,
+<br/> for now learning HTML/CSS and Javascript,
+<br/> I can help you with CSS Grid Layout and Flexbox :)
+<br/> i am in love Berserk mangá and Darksouls serie
+<br/> you can find me here: [![Gmail Badge](https://img.shields.io/badge/-johelder.arj@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:johelder.arj@gmail.com)](mailto:johelder.arj.com)
