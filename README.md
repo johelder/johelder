@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Johelder Humberto
+
+Hi there
+
+Currently I study Computer Science in college,
+for now learning HTML/CSS and Javascript,
+I can help you with CSS Grid Layout and Flexbox :)
+i am in love Berserk mangá and Darksouls serie
+you can find me here: [![Gmail Badge](https://img.shields.io/badge/-johelder.arj@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:johelder.arj@gmail.com)](mailto:johelder.arj.com)
