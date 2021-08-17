@@ -7,6 +7,6 @@
 Olá, :mage:
 
 Meu nome é Johelder Humberto e sou desenvolvedor **Front-End**.  
-Atualmente estou aprofundando meus estudos em **Javascript**.
+Atualmente estou estudando **React-Native**.
 
 "Too see the world, things dangerous to come to, to see behind walls, draw closer, to find each other and to feel, that is the purpose of life."
