@@ -7,7 +7,7 @@ Olá! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" widt
 
 Um desenvolvedor front-end que ama aprender coisas novas!
 
-"Too see the world, things dangerous to come to, to see behind walls, draw closer, to find each other and to feel, that is the purpose of life."
+_"Too see the world, things dangerous to come to, to see behind walls, draw closer, to find each other and to feel, that is the purpose of life."_
 
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
